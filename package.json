@@ -1,0 +1,15 @@
+{
+  "name": "@yurenju/oz-compile-failed-on-windows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "oz compile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  }
+}
